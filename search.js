@@ -31,3 +31,9 @@ else
   }
     content.value = ""
 }
+
+function t()
+{
+if(event.keyCode ==13)
+show();
+}
