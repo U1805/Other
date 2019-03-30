@@ -3,7 +3,7 @@ function show() {
     var content = document.getElementById("content");
     var x;
     switch (content.value) {
-    case "<工具>Adobe 之 PS & Ae & Pr":
+    case "<工具>Adobe之PS+Ae+Pr":
         x = "1MyzGyr4wOMbYdZQfyPG6IQ";
         break;
     case "<游戏>夏娃年代记":
