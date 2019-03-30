@@ -23,7 +23,7 @@ function show() {
     }
 if (x == "")
   {
-  show.innerHTML = "查无此项";
+  show.innerHTML =  content.value + " : <br><br>查无此项";
   }
 else
   {
